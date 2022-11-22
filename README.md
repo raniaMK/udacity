@@ -1,2 +1,1 @@
-# udacity
- 
+# UdacityProject
